@@ -1,0 +1,4 @@
+__pycache__/
+videos_temp/
+*.pyc
+.env
