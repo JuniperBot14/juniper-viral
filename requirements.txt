@@ -1,4 +1,1 @@
-requests
-moviepy
-pytube
-tqdm
+playwright
