@@ -1,5 +1,8 @@
-requests
+numpy
 moviepy
 pytube
+requests
 tqdm
-numpy
+pydrive
+opencv-python
+playwright
