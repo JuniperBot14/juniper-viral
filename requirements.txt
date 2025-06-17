@@ -2,3 +2,4 @@ requests
 moviepy
 pytube
 tqdm
+numpy
