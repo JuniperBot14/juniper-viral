@@ -1,1 +1,10 @@
+numpy
+moviepy
+pytube
+requests
+tqdm
+pydrive
+opencv-python
 playwright
+
+✅ Corrige requirements.txt para Railway
