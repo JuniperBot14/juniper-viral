@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: juniper-viral-detector
+    env: python
+    buildCommand: |
+      pip install -r requirements.txt
+      playwright install chromium
+    startCommand: python detect_virales.py
+    plan: free
